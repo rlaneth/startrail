@@ -40,6 +40,11 @@ p span {
     font-weight: 500;
 }
 
+code {
+    color: rgba(255, 255, 255, 1);
+    font-size: 1.1em;
+}
+
 a {
     color: rgb(0, 147, 226);
     transition: all 0.2s ease-out;
